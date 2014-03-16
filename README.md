@@ -62,7 +62,7 @@ Linux下SVN常用命令:
         命令：svn diff -r num:num file
         例如：svn diff -r 12:13 2.php  对文件版本12与版本13间的差异
 
-9、查看帮组
+9、查看帮助
 
     命令：svn --help
     简写：svn ? 或者 svn h
